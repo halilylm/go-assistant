@@ -20,7 +20,7 @@ go-assistant
 ```
 
 if you are getting an error, you need to add `$GOPATH/bin` to the path.
-You can see it your `$GOPATH` by running `go env`
+You can find your `$GOPATH` by running `go env` command.
 
 When it is your first time using it, you need to paste your API key.
 This program will automatically open a browser to find your API key.
