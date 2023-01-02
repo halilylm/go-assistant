@@ -3,7 +3,7 @@
 
 Chat GPT assistant written in GO.
 
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/HxbwM8Z)
 
 ## Installation
 
